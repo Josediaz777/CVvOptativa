@@ -1,0 +1,41 @@
+body {
+    background-color: aliceblue;
+}
+
+#foto {
+    width: 300;
+    align-self: left;
+    height: 200px;
+}
+
+fieldset {
+    background-color: #eeeeee;
+    width: 1000px;
+    align-self: left;
+}
+
+legend {
+    background-color: gray;
+    color: white;
+    padding: 5px 10px;
+    align-content: center;
+    font-family: 'Almarai',
+        sans-serif;
+}
+
+input {
+    margin: 5px;
+}
+
+.foto {
+    margin-left: 10px;
+}
+
+.principal {
+    margin-left: 150px;
+}
+
+li {
+    font-family: 'Source Sans Pro', sans-serif;
+    ;
+}
